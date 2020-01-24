@@ -3,7 +3,7 @@ moonriver browser: chromium-win64+extensions+bookmarks+jsshell-win64...
 
 ## 下载和使用 Download and Usage
 
-[月亮河 浏览器 2020-01-24发行版](/2293/moonriver/releases/tag/20200124)
+[月亮河 浏览器 2020-01-24发行版](https://github.com/2293/moonriver/releases/tag/20200124)
 
 https://github.com/2293/moonriver/releases/download/20200124/moonriver-2020-01-24.7z
 
